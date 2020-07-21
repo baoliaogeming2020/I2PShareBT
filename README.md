@@ -1,1 +1,3 @@
-传播方式参考本项目<a href="https://github.com/baoliaogeming2020/guide">guide</a>
+本项目目的是通过个人电脑安装 I2P 翻墙软件，再通过 I2P 的 mutorrent 分享 torrent 种子。当你分享爆料革命音视频时，再也不受网络空间的限制，也不怕因为内容得罪某些团体，空间被封账号。  
+# 分享原理 #  
+I2P与TOR类似，但协议的安全性比TOR强度还要大，TOR三跳线路为单次连接单线，而I2P却是单次连接多线。同时，I2P支持原生mutorrent，可以分享内容流量，还可以补种。
