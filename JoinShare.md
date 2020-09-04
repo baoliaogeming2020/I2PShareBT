@@ -26,8 +26,14 @@
 ### 软件设置 ###  
 macOS安装后可能是英文界面，需要设置为中文，菜单中找到 Tools -> Options 打开 Preferences 窗口，右侧选择 Interface -> Language 向下滚动，选择 "中文(中国) - Chinese(China)"。  
 一但转换成中文界面，后边按照以下流程，与 Win 基本一致。
-#### 开启高级模式 ###  
+#### 开启高级模式 ####  
 因为这个软件为了防止新手设置错误，新安装后的模式为 "新手"，好多功能无法使用，要改模式为 "高级"。  
-菜单中找到 Tools -> Options 打开 Preferences 窗口，选择 模式 -> 用户熟练度 - 高级。然后点 "保存"按钮，再退出 Preferences 窗口。  
+菜单中找到 Tools -> Options 打开 Preferences 窗口，选择 模式 -> 用户熟练度 -> 高级。然后点 "保存"按钮。  
+#### 开启 I2P Helper ####  
+某些版本默认不开启此模块，所以要确认一下。  
+菜单中找到 Tools -> Options 打开 Preferences 窗口，选择 插件 -> I2P Helper，确认 "Enable" 为选择状态。  
+再退出 Preferences 窗口。  
+### 订阅 RSS ###  
+
 
 
