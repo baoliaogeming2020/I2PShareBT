@@ -36,12 +36,12 @@ macOS安装后可能是英文界面，需要设置为中文，菜单中找到 To
 ### 等待 I2P 连网 ###  
 因为 I2P 是隐藏网络，没有中央服务器，所以安全的同时也造成启动时连接需要点时间，这个时间大概是 5 到 10 分钟。  
 菜单中找到 查看 -> I2P Helper，在窗口侧边栏 -> 插件和附加内容 下打开 I2P Helper 插件。  
-<img src="/img/007.gif" width="40%" height="40%">  
+<img src="/img/007.gif" width="60%" height="60%">  
 窗口右侧 "Mix DHT Stats" 标签中的内容初始值比较小，如：用户、叶子、节点数的值都为1，等待 5 到 10 分钟会快速增加，达到几百或几千，甚至过万，这说明你已经连接到 I2P网络。  
 ### 订阅 RSS ###  
 这个订阅，我用个人电脑24小时开机做为订阅服务器，为战友分享订阅。  
 订阅地址：http://4zlwfvcvu4hu3k7xigtwczo4betkhzdkpip54c24ghotiamtv6ra.b32.i2p/rss-miles.xml  
-<img src="/img/008.gif" width="40%" height="40%">  
+<img src="/img/008.gif" width="60%" height="60%">  
 窗口侧边栏 -> 内容搜索 -> 订阅，点击订阅后的加号按钮。弹出订阅窗口。  
 <img src="/img/009.gif" width="40%" height="40%">  
 点击窗口中"创建新的订阅"按钮。  
