@@ -26,9 +26,8 @@ I2P-Profile-Installer：这是 FireFox 的 I2P 版本，可以在这下载，也
 <img src="/img2/3-010.png" width="40%" height="40%">  
 <img src="/img2/3-011.png" width="40%" height="40%">  
 ### 2.3. 设置I2P ###  
-
 在开始菜单启动后会在状态栏内出现一个小人图标。  
-<img src="/img2/4-001.png" width="80%" height="80%">  
+<img src="/img2/4-001.png" width="20%" height="20%">  
 双击此图标，在浏览器打开I2P设置。  
 <img src="/img2/4-002.png" width="80%" height="80%">  
 <img src="/img2/4-003.png" width="80%" height="80%">  
