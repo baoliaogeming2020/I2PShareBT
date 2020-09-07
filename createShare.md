@@ -1,4 +1,4 @@
-# 建立分享服务器 #  
+# 建立爆料革命分享 I2P 服务器 #  
 ## 1. 下载软件 ##  
 [I2P官网](https://geti2p.net/en/download)，下载 i2pinstall_0.9.47_windows.exe / JRE / I2P-Profile-Installer-0.02b.exe  
 i2pinstall_0.9.47：根据自己的操作系统下载。  
