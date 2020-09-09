@@ -75,7 +75,7 @@ I2P-Profile-Installer：这是 FireFox 的 I2P 版本，可以在这下载，也
 <img src="/img2/6-005.png" width="80%" height="80%">  
 <img src="/img2/6-006.png" width="80%" height="80%">  
 进行 I2P匿名网络 分享。  
-每一个文件都要选择"I2P匿名网络"。如果你对自己的安全无所谓，就选择"公共IP网络"，否则，去掉此选项，因为任何人都可以看到你的IP。  
+每一个文件都要选择 "公共IP网络" 和 "I2P匿名网络"。经过多方测试，不选择 "公共IP网络" 其它用户用 "I2P匿名网络" 很难连接，战友不要害怕，因所有 dht 都是 I2P 的 dht，只要不向下载中添加 公共IP网络dht，不会让其它用户通过 公共IP网络 下载。  
 <img src="/img2/6-007.png" width="80%" height="80%">  
 <img src="/img2/6-008.png" width="80%" height="80%">  
 当分享的文件太多时，会出现排队，最好"强制做种"才能让所有文件不排队。  
